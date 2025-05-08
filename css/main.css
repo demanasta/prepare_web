@@ -1,0 +1,175 @@
+/* *****************************************************
+             GENERAL OPTIONS
+****************************************************** */
+body { 
+  background: #282828 url(../images/prepare_back.jpg)  no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+  color: #DDD;}
+@font-face { 
+  font-family: Jenna Sue; 
+    src: url('../fonts/JennaSue-webfont.eot'); 
+    src: local("Jenna Sue"), url('../fonts/JennaSue-webfont.ttf'); 
+} 
+
+.page{
+	margin: .5em 1em .5em 1em;
+	padding: 0 0 0 0;
+	min-height: 700px;
+	background-color: rgba(41,96,121,0.5);
+	/*background-color: #f8fde8;
+	opacity: .4*/
+	border: 0px solid black;
+	width:980px;
+	margin-right:auto;
+	margin-left:auto;
+	font-size: 14px;
+        font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+/*        font-family: Verdana, Arial, Helvetica, sans-serif;*/
+}
+
+.style{
+	background-color: rgba(100,100,100,0.5);; 
+}
+
+
+h1, h2 { 
+  font: normal 450% 'Jenna Sue', arial, sans-serif;
+  margin: 0 0 25px 0;
+  padding: 0;}
+
+h3, h4, h5, h6 {
+  font: normal 300% 'Jenna Sue', arial, sans-serif;
+  margin: 0 0 25px 0;
+  padding: 0;}
+
+
+#main { 
+  width: 920px;
+  margin: 20px auto;}
+
+
+footer { 
+  height: 1px;
+  width: 430px;
+  float: right;
+  margin: 20px auto 20px auto;
+  padding: 0px 20px 0 0;
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border: 7px 7px 7px 7px;
+  font: 90% 'News Cycle', arial, sans-serif;
+  text-align: right;}
+
+footer p { 
+  padding: 0 0 10px 0;}
+
+footer a, footer a:hover {
+  text-decoration: none;}
+
+a, a:hover { 
+  outline: none;
+  text-decoration: none;
+  color: #CCC;}
+
+a:hover { 
+  text-decoration: none;
+  color: #FFF;}
+
+a.mainmenu {
+color: #000;
+font-weight: bold;
+font-size: 13px;
+line-height: 13px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+text-indent: 0px;
+text-decoration: none
+}
+a:hover.mainmenu {
+color: #990000;
+font-weight: bold;
+font-size: 13px;
+line-height: 13px;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+text-align: center;
+text-indent: 0px
+}
+
+p.header {
+font-weight: bold;
+font-size: 26px;
+/*font-family: Arvo, Monaco, serif;*/
+font-family: Arvo, sans-serif;
+text-align: left;
+}
+
+a.buttons {
+	-webkit-font-smoothing: antialiased;
+	background: url(../images/arrow-down.png) no-repeat;
+	font-weight: normal;
+	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
+	padding: 2px 2px 2px 22px;
+	height: 30px;
+}
+
+a.github {
+	background: url(../images/octocat-small.png) no-repeat 1px;
+}
+
+a.buttons:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+
+
+a.buttons {
+	-webkit-font-smoothing: antialiased;
+	background: url(../images/arrow-down.png) no-repeat;
+	font-weight: normal;
+	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
+	padding: 2px 2px 2px 22px;
+	height: 30px;
+}
+
+a.github {
+	background: url(../images/octocat-small.png) no-repeat 1px;
+}
+
+a.buttons:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+
+table.repos {
+  width: 95%;
+  align: center;
+  padding: 20px;
+  margin-left: 2.5%;
+  margin-right: 2.5%;}
+
+td.buttons {
+valign:top; 
+align:center;
+background-color:#990000;
+text-align:center;
+}
+td:hover.buttons {
+valign:top; 
+align:center;
+background-color:#E50000;
+text-align:center;
+}
+
+td.repos {
+  padding: 10px;}
+
+td:hover.repos {
+  padding: 10px;
+  background-color: rgba(33,33,79,0.8);}
