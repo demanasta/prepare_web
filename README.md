@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## PREPARE Project 
 
-You can use the [editor on GitHub](https://github.com/demanasta/demanasta.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Repository of webpage for PREPARE project dissemination activities
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## PREPARE Funding
+>This study was funded under the project PREPARE (HFRI PN:15562) in the framework of H.F.R.I call “Basic research Financing (Horizontal support of all Sciences)” under the National Recovery and Resilience Plan “Greece 2.0” funded by the European Union – NextGenerationEU<br>
+<img src="https://github.com/demanasta/prepare_web/blob/main/logos/prepare_logo.png" width="150"><img src="https://github.com/demanasta/prepare_web/blob/main/logos/ntua.png" width="150"><br>
+<img src="https://github.com/demanasta/prepare_web/blob/main/logos/elidek_en.jpg" width="200">  <img src="https://github.com/demanasta/prepare_web/blob/main/logos/Gr20_en.jpg" width="380">
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/demanasta/demanasta.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
